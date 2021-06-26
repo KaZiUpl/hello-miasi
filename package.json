@@ -1,0 +1,14 @@
+{
+  "name": "hello-miasi",
+  "version": "1.0.0",
+  "description": "Simple package created for my paper about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Kacper Kaźmierkiewicz",
+  "license": "ISC"
+}
