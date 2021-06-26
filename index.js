@@ -1,1 +1,5 @@
-console.log('Hello MiASI');
+function hello() {
+  console.log('Hello MiASI');
+}
+
+export default hello;
