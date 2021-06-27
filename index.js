@@ -1,5 +1,9 @@
 const hello = (text = 'MiASI') => {
-  console.log(`Hello ${text}`);
+  if (text && text == 'MiASI') {
+    console.log('Hello MiASI');
+  } else {
+    console.log(`Hello MiASI and hello ${text}`);
+  }
 };
 
 export default hello;
