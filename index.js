@@ -1,5 +1,5 @@
-const hello = () => {
-  console.log('Hello MiASI');
+const hello = (text = 'MiASI') => {
+  console.log(`Hello ${text}`);
 };
 
 export default hello;
